@@ -24,10 +24,12 @@ _Все ссылки это gist на github с возможностью отк�
 
 - **Зачем это**: Самому не потерять, с разметкой поиграть.
 
-## Список коллабов
+## Список колабов
 
 1.  [Ведение в генетические алгоритмы](https://gist.github.com/PlumNoseBear/c6b5d3a2827673a541fb8b5a82de707c#file-lite-ipynb).
 
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Colab](https://img.shields.io/badge/-Colab-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 
 
 <!--endstep0-->
