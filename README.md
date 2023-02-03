@@ -62,7 +62,6 @@ _Все ссылки это gist на github с возможностью отк�
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
 ![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas&logoColor=F88C00)
 ![json](https://img.shields.io/badge/-json-090909?style=for-the-badge&logo=json&logoColor=F88C00)
-<!--endstep0-->
 ![requests](https://img.shields.io/badge/-requests-090909?style=for-the-badge&logo=requests&logoColor=F88C00)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-090909?style=for-the-badge&logo=BeautifulSoup&logoColor=F88C00)
 
@@ -82,8 +81,24 @@ _Все ссылки это gist на github с возможностью отк�
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
 ![json](https://img.shields.io/badge/-json-090909?style=for-the-badge&logo=json&logoColor=F88C00)
-<!--endstep0-->
 ![requests](https://img.shields.io/badge/-requests-090909?style=for-the-badge&logo=requests&logoColor=F88C00)
+
+11.  [Обучающая и тестовая выборки](https://gist.github.com/PlumNoseBear/513c5ad355f628bc35218078f44edba5).
+
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![sklearn](https://img.shields.io/badge/-sklearn-090909?style=for-the-badge&logo=sklearn&logoColor=F88C00)
+![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas&logoColor=F88C00)
+![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy&logoColor=F88C00)
+
+
+12.  [Распознавание рукописных цифр MNIST](https://gist.github.com/PlumNoseBear/a7c9168c46278a85b4e40f1df47309d1).
+
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas&logoColor=F88C00)
+
+<!--endstep0-->
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
