@@ -6,7 +6,7 @@
 -->
 
 # Питон, нейронки и вот это вот всё...
-_Все ссылки это gist на github с возможностью открыть их в google colab._
+_Коллабы - это gist на github с возможностью открыть их в google colab._
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -24,7 +24,7 @@ _Все ссылки это gist на github с возможностью отк�
 
 - **Зачем это**: Самому не потерять, с разметкой поиграть.
 
-## Список колабов
+## Колабы
 
  1.  [Ведение в генетические алгоритмы](https://gist.github.com/PlumNoseBear/c6b5d3a2827673a541fb8b5a82de707c).
 
@@ -111,7 +111,7 @@ _Все ссылки это gist на github с возможностью отк�
 
 
 ## Файлы
-1.  [Парсинг с Binance цены цены фьючерса ETHUSDT](https://github.com/PlumNoseBear/PAINN/blob/main/Futures_ETHUSDT).
+1.  [Парсинг с Binance цены цены фьючерса ETHUSDT(Тестовое задание)](https://github.com/PlumNoseBear/PAINN/blob/main/Futures_ETHUSDT).
 
 ![](https://img.shields.io/badge/-Python-090909?style=flat&logo=Python&logoColor=47C5FB)
 ![](https://img.shields.io/badge/-BeautifulSoup-090909?style=badge&logo=BeautifulSoup&logoColor=F88C00)
