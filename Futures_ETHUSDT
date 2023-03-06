@@ -20,13 +20,13 @@ async def run():
     while True:
         price = await get_price_ETHUSDT()
         t = time.strftime("%H:%M", time.localtime())
-        delta_price=abs((lastprice-price)/100)
-        if delta_price>1.:
-          if lastprice>price:
+        delta_price=abs((lastprice-price)/price*100)
+        if delta_price > 1.:
+          if lastprice < price:
             change_price="Рост"
           else:
             change_price="Падение"
-          print(f'{t}.  Цена ETHUSDT: {price}, {change_price} на {delta_price}')
+          print(f'{t}.  Цена ETHUSDT: {price}. {change_price} на {delta_price:.2f}% за час')
         lastprice=price
         await asyncio.sleep(3600) # задержка в секундах
 
