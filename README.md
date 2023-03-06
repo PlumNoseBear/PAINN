@@ -109,6 +109,14 @@ _Все ссылки это gist на github с возможностью отк�
 
 
 <details id=X>
+
+## Файлы
+1.  [Парсинг с Binance цены цены фьючерса ETHUSDT](https://github.com/PlumNoseBear/PAINN/blob/main/Futures_ETHUSDT).
+
+![](https://img.shields.io/badge/-Python-090909?style=flat&logo=Python&logoColor=47C5FB)
+![](https://img.shields.io/badge/-BeautifulSoup-090909?style=badge&logo=BeautifulSoup&logoColor=F88C00)
+![](https://img.shields.io/badge/-Asyncio-090909?style=badge&logo=Asyncio&logoColor=F88C00)
+![](https://img.shields.io/badge/-Aiohttp-090909?style=badge&logo=Aiohttp&logoColor=F88C00)
 <summary><h2>Finish</h2></summary>
 
 ### Где-то в июле
