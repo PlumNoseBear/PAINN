@@ -33,4 +33,4 @@ async def run():
 if __name__ == '__main__':
   # Создаем и запускаем цикл событий
   result = asyncio.new_event_loop()
-  result.run_until_complete(run())
+  result.run_forever(run())
