@@ -26,6 +26,11 @@ _Коллабы - это gist на github с возможностью откры
 
 ## Колабы
 
+[Сегментация изображений](https://gist.github.com/PlumNoseBear/c92bbf46cd3f86d77b5c38d63340eb04).
+
+![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![](https://img.shields.io/badge/-Keras-090909?style=badge&logo=keras&logoColor=#CF0000)
+
 [Ведение в генетические алгоритмы](https://gist.github.com/PlumNoseBear/c6b5d3a2827673a541fb8b5a82de707c).
 
 ![](https://img.shields.io/badge/-Python-090909?style=flat&logo=Python&logoColor=47C5FB)
