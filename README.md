@@ -25,6 +25,16 @@ _Коллабы - это gist на github с возможностью откры
 - **Зачем это**: Самому не потерять, с разметкой поиграть.
 
 ## Колабы
+[Тензоры TensorFlow](https://gist.github.com/PlumNoseBear/edd03e72792cccf9eb4205eedbd855ff#file-tensorflow-1-ipynb).
+
+![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
+
+[Модель сети с предсказанием  значения функции. TensorFlow](https://gist.github.com/PlumNoseBear/220a81e60cc951c0c33f89a4c0a87f44#file-tensorflow-ipynb).
+
+![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
+
 
 [Сегментация изображений](https://gist.github.com/PlumNoseBear/271d1059c951c48a2a0a9b94f37c9839#file-lite-ipynb).
 
