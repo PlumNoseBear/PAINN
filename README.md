@@ -26,44 +26,55 @@
 ## Колабы
 [Модель сети с предсказанием значения функции на TensorFlow ](https://gist.github.com/PlumNoseBear/220a81e60cc951c0c33f89a4c0a87f44#file-tensorflow-ipynb).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
 
 [Тензоры.TensorFlow](https://gist.github.com/PlumNoseBear/edd03e72792cccf9eb4205eedbd855ff#file-tensorflow-1-ipynb).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
 
 [Сегментация изображений](https://gist.github.com/PlumNoseBear/271d1059c951c48a2a0a9b94f37c9839#file-lite-ipynb).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-Keras-090909?style=badge&logo=keras&logoColor=#CF0000)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-Keras-090909?style=badge&logo=keras&logoColor=#CF0000)
 
 [Ведение в генетические алгоритмы](https://gist.github.com/PlumNoseBear/c6b5d3a2827673a541fb8b5a82de707c).
 
-![](https://img.shields.io/badge/-Python-090909?style=flat&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=flat&logo=Python&logoColor=47C5FB)
 
 [GAN](https://gist.github.com/PlumNoseBear/c92bbf46cd3f86d77b5c38d63340eb04).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-Keras-090909?style=badge&logo=keras&logoColor=#CF0000)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-Keras-090909?style=badge&logo=keras&logoColor=#CF0000)
 
 [Вариационные Автокодировщики](https://gist.github.com/PlumNoseBear/351d4a561c33e7fe34f5a498ad0e7281).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
 
- 4.  [Автокодировщики](https://gist.github.com/PlumNoseBear/aad55719e18e622d3a52b56a045560c4).
+[Автокодировщики](https://gist.github.com/PlumNoseBear/aad55719e18e622d3a52b56a045560c4).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
-![](https://img.shields.io/badge/-Sklearn-090909?style=badge&logo=sklearn&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Sklearn-090909?style=badge&logo=sklearn&logoColor=F88C00)
 
 [Нейронные сети для обработки аудио. Классификация жанров](https://gist.github.com/PlumNoseBear/3e298117c8a3f9ef0f2ffd98e65eb96b).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
-![](https://img.shields.io/badge/-Sklearn-090909?style=badge&logo=sklearn&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Sklearn-090909?style=badge&logo=sklearn&logoColor=F88C00)
+
+[Нейронные сети для обработки аудио. Классификация жанров на трансформере](https://gist.github.com/PlumNoseBear/05f963bab93f8342c6bc2b6139efaf7f).
+
+![Static Badge](https://img.shields.io/badge/HuggingFace-yellow)
+![Static Badge](https://img.shields.io/badge/Transformers-blue)
+
+
+[Сети с вниманием. Немецко-английский переводчик.](https://gist.github.com/PlumNoseBear/15584e1c0cb30ac9ffbc9a2f4343f9b3)
+
+![Static Badge](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
+
 
 [Парсинг данных](https://gist.github.com/PlumNoseBear/04c69f61ad24462cfd6a3b6e2a8406bf).
 
@@ -72,44 +83,45 @@
 
 [Web-scrapping](https://gist.github.com/PlumNoseBear/724489831b391614bb3f911aded67630).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-Pandas-090909?style=badge&logo=pandas&logoColor=F88C00)
-![](https://img.shields.io/badge/-json-090909?style=badge&logo=json&logoColor=F88C00)
-![](https://img.shields.io/badge/-Requests-090909?style=badge&logo=requests&logoColor=F88C00)
-![](https://img.shields.io/badge/-BeautifulSoup-090909?style=badge&logo=BeautifulSoup&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-Pandas-090909?style=badge&logo=pandas&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-json-090909?style=badge&logo=json&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Requests-090909?style=badge&logo=requests&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-BeautifulSoup-090909?style=badge&logo=BeautifulSoup&logoColor=F88C00)
 
 [Обработка текстов с помощью нейросетей. Классификация текстов писателей](https://gist.github.com/PlumNoseBear/787538c12798b8524fa2fd9fd02884fa).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
-![](https://img.shields.io/badge/-Sklearn-090909?style=badge&logo=sklearn&logoColor=F88C00)
-![](https://img.shields.io/badge/-Pandas-090909?style=badge&logo=pandas&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Sklearn-090909?style=badge&logo=sklearn&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Pandas-090909?style=badge&logo=pandas&logoColor=F88C00)
 
 [Key-Value структура данных](https://gist.github.com/PlumNoseBear/b04f59af69db30886c651f88f42e8f06).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-NumPy-090909?style=badge&logo=NumPy&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-NumPy-090909?style=badge&logo=NumPy&logoColor=F88C00)
 
 [Методы получения данных  с библиотекой requests](https://gist.github.com/PlumNoseBear/d92b02ee3336cd74de8cf5b96844d39f).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-json-090909?style=badge&logo=json&logoColor=F88C00)
-![](https://img.shields.io/badge/-Requests-090909?style=badge&logo=requests&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-json-090909?style=badge&logo=json&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Requests-090909?style=badge&logo=requests&logoColor=F88C00)
 
 [Обучающая и тестовая выборки](https://gist.github.com/PlumNoseBear/513c5ad355f628bc35218078f44edba5).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
-![](https://img.shields.io/badge/-Sklearn-090909?style=badge&logo=sklearn&logoColor=F88C00)
-![](https://img.shields.io/badge/-Pandas-090909?style=badge&logo=pandas&logoColor=F88C00)
-![](https://img.shields.io/badge/-NumPy-090909?style=badge&logo=NumPy&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Sklearn-090909?style=badge&logo=sklearn&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-Pandas-090909?style=badge&logo=pandas&logoColor=F88C00)
+![Static Badge](https://img.shields.io/badge/-NumPy-090909?style=badge&logo=NumPy&logoColor=F88C00)
 
 
 [Распознавание рукописных цифр MNIST](https://gist.github.com/PlumNoseBear/a7c9168c46278a85b4e40f1df47309d1).
 
-![](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
-![](https://img.shields.io/badge/-Pandas-090909?stylebadge&logo=pandas&logoColor=F88C00)
+[Еще распознавание рукописных цифр MNIST](https://gist.github.com/PlumNoseBear/fbf8477c98d8b8ca2b848300eae2e89e).
+
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/-TensorFlow-090909?style=badge&logo=tensorflow&logoColor=F88C00)
 
 <!--endstep0-->
 <!--
@@ -133,7 +145,7 @@
  <details id=X> 
 <summary><h2>Finish</h2></summary>
 
-### Где-то в июле
+### Где-то к концу года после сдачи экзамена и стажировки.
 
 </details>
 
