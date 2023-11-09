@@ -23,6 +23,16 @@
 - **Зачем это**: Самому не потерять, с разметкой поиграть.
 
 ## Колабы
+[Распознавание зданий на снимках с коптера YOLO8, предобученной на спутниковых снимках](https://gist.github.com/PlumNoseBear/ec5b6c2668595d31187d58175fbedeba)
+
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/Computer_Vision-000080)
+---
+[Распознавани лиц. CV, Colab, видеокамера](https://gist.github.com/PlumNoseBear/8ed6494e36cc389fd0e25964fea97e)
+
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/Computer_Vision-000080)
+---
 
 [Нейронные сети для обработки аудио. Распознавание голоса](https://gist.github.com/PlumNoseBear/0f0cc04139d23e0bedaf8040846aff02).
 
