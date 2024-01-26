@@ -23,6 +23,11 @@
 - **Зачем это**: Самому не потерять, с разметкой поиграть.
 
 ## Колабы
+[Запуск обучения датасета c Roboflow на Ultralitics. Распознавание поврежденй на корпусах самолетов](https://gist.github.com/PlumNoseBear/f52d783769ad336fc6f54ac9bd8ed960)
+
+![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
+![Static Badge](https://img.shields.io/badge/Computer_Vision-000080)
+
 [Распознавание зданий на снимках с коптера YOLO8, предобученной на спутниковых снимках](https://gist.github.com/PlumNoseBear/ec5b6c2668595d31187d58175fbedeba)
 
 ![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
