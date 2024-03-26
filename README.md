@@ -23,11 +23,9 @@
 - **Зачем это**: Самому не потерять, с разметкой поиграть.
 
 ## Колабы
-[Выводим картинку в Colab без PIL. Ну почти...  ]
-((https://gist.github.com/PlumNoseBear/9012730ba13a82161e67e11a3dbac331#file-draw-in-python-as-ellipsis-ipynb)
+[Выводим картинку в Colab без PIL. Почти...](https://gist.github.com/PlumNoseBear/9012730ba13a82161e67e11a3dbac331)
 
 ![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
-![Static Badge](https://img.shields.io/badge/Computer_Vision-000080)
 
 [Распознавание зданий на снимках с коптера YOLO8, предобученной на спутниковых снимках](https://gist.github.com/PlumNoseBear/ec5b6c2668595d31187d58175fbedeba)
 
