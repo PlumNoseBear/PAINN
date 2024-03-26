@@ -23,7 +23,8 @@
 - **Зачем это**: Самому не потерять, с разметкой поиграть.
 
 ## Колабы
-[Запуск обучения датасета c Roboflow на Ultralitics. Распознавание поврежденй на корпусах самолетов](https://gist.github.com/PlumNoseBear/f52d783769ad336fc6f54ac9bd8ed960)
+[Выводим картинку в Colab без PIL. Ну почти...  ]
+((https://gist.github.com/PlumNoseBear/9012730ba13a82161e67e11a3dbac331#file-draw-in-python-as-ellipsis-ipynb)
 
 ![Static Badge](https://img.shields.io/badge/-Python-090909?style=badge&logo=Python&logoColor=47C5FB)
 ![Static Badge](https://img.shields.io/badge/Computer_Vision-000080)
