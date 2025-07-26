@@ -18,9 +18,9 @@
 
 <!--step0-->
 
-В этом репозитории находятся некоторые задачи, решенные  во  время учебы в Университете искусственного интеллекта на курсе «Data Science, нейронные сети, машинное обучение и искусственный интеллект» и другие мои колабы.
+Репозиторий  ноутбуков, в основном,  с разными применениями нейросетей.
 
-- **Зачем это**: Самому не потерять, с разметкой поиграть.
+- **Зачем это**: Самому не потерять, что решал.
 
 ## Колабы
 [Выводим картинку в Colab без PIL. Почти...](https://gist.github.com/PlumNoseBear/9012730ba13a82161e67e11a3dbac331)
@@ -178,15 +178,4 @@
 ![](https://img.shields.io/badge/-Asyncio-090909?style=badge&logo=Asyncio&logoColor=F88C00)
 ![](https://img.shields.io/badge/-Aiohttp-090909?style=badge&logo=Aiohttp&logoColor=F88C00)
  <details id=X> 
-<summary><h2>Finish</h2></summary>
-
-### Где-то к концу года после сдачи экзамена и стажировки.
-
-</details>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
 
