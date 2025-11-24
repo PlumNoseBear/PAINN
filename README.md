@@ -174,7 +174,7 @@
   Encourage users to open new tabs for steps!
 -->
 
-[Парсинг с Binance цены цены фьючерса ETHUSDT(Тестовое задание)](https://gist.github.com/PlumNoseBear/43588a62733c9bb88de1de0a2cde624e).
+[Парсинг с Binance цены цены фьючерса ETHUSDT(Тестовое задание)](https://github.com/PlumNoseBear/PAINN/blob/main/%D0%9F%D0%B0%D1%80%D1%81%D0%B8%D0%BD%D0%B3_%D1%86%D0%B5%D0%BD%D1%8B_%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE_%D0%B2%D0%B0%D0%BB%D1%8E%D1%82_%D1%81_%D0%91%D0%B8%D0%BD%D0%B0%D0%BD%D1%81.ipynb).
 
 [![Static Badge](https://img.shields.io/badge/-Python-090909?style=flat&logo=Python&logoColor=47C5FB)](#)
 [![Static Badge](https://img.shields.io/badge/-Asyncio-090909?style=badge&logo=Asyncio&logoColor=F88C00)](#)
